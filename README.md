@@ -22,10 +22,4 @@
   </ul>
 </div>
 
-<br/>
-<h2 >📈 Github Statistics</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIDA-LJ&count_private=true&show_icons=true&hide_border=true"  width="60%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIDA-LJ&langs_count=10&exclude_repo=timerring.github.io&count_private=true&layout=compact&hide_border=true" width="36%" />
-</div>
